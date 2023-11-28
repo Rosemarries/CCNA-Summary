@@ -6,6 +6,7 @@
 - Routing
 - De-encapsulation
 ![[Screenshot 2566-05-21 at 08.55.10.png]]
+
 |Function | Description|
 |---------|------------|
 |Version |This will be for v4, as opposed to v6, a 4 bit field= 0100|
